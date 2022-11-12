@@ -2,4 +2,4 @@
 
 Main methods used:
 
-exploratory data analysis, multiple hypothesis testing, Gaussian Mixture Models, causal inference (2SLS)
+exploratory data analysis, multiple hypothesis testing, Gaussian Mixture Models, causal inference (instrumental variables with 2SLS)

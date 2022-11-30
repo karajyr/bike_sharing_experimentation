@@ -2,11 +2,9 @@
 
 Tools used: Python (scikit-learn, statsmodels, Pandas, NumPy, SciPy, matplotlib/Seaborn)
 
-Main methods used:
+Main methods used: exploratory data analysis, multiple hypothesis testing correction for A/B testing, Gaussian Mixture Models (GMMs), causal inference (instrumental variables with 2SLS)
 
-exploratory data analysis, multiple hypothesis testing correction for A/B testing, Gaussian Mixture Models (GMMs), causal inference (instrumental variables with 2SLS)
-
-The main goals of this project is to use various statistical methods to: 
+The main goals of this project were to use various statistical methods to: 
 
 (1) visualize and produce descriptive statistics of rider demographics, rental times, and popular biking routes 
 
